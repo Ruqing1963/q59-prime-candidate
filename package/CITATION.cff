@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    email: ruqing@hotmail.com
+    affiliation: "GUT Geoservice Inc., Montreal, Canada"
+title: "Computation and Cryptographic Fingerprinting of a 109-Million-Digit Integer in the Q₅₉ Polynomial Family"
+version: 1.0.0
+doi: 10.5281/zenodo.18140813
+date-released: 2026-01-03
+url: "https://github.com/Ruqing1963/q59-prime-candidate"
+repository-code: "https://github.com/Ruqing1963/q59-prime-candidate"
+license: CC-BY-4.0
+keywords:
+  - prime numbers
+  - computational number theory
+  - Bunyakovsky conjecture
+  - large integer computation
+  - Q_n polynomial family
+  - cryptographic fingerprint
+  - SHA-256
+  - probable prime
+  - EFF Cooperative Computing Award
+  - distributed computing
+abstract: >
+  This repository documents the computation of a 109,433,938-digit
+  integer from the Q₅₉ polynomial family. The candidate exceeds the
+  Electronic Frontier Foundation's 100-million-digit prime number
+  prize threshold. A SHA-256 cryptographic fingerprint is provided
+  for independent verification. Primality testing has not yet been
+  performed; this work represents a computational achievement and
+  calls for collaborative verification efforts.
+type: software
