@@ -15,6 +15,11 @@ where `q = 10^1886792 + 3`
 
 This is the **first candidate to exceed** the Electronic Frontier Foundation's 100-million-digit prime number prize threshold.
 
+Priority Claim & Award Policy
+While this project is open-source under CC-BY-4.0, it is specifically designed to pursue the EFF 100-Million-Digit Prime Award. As the primary discoverer of this mathematical coordinate and its unique SHA-256 identity fingerprint, I (Ruqing Chen) assert priority of discovery.
+
+Any individual, institution, or group that successfully performs the final primality verification is required to enter into a joint submission agreement with the author for the EFF award claim. Failure to credit the original discovery (Zenodo DOI: 10.5281/zenodo.18140813) in any official prize claim will be considered a violation of the attribution requirements of the CC-BY-4.0 license.
+
 ---
 
 ## 🔑 Identity Certificate
