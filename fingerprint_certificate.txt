@@ -1,0 +1,107 @@
+==================================================
+   Q₅₉ POLYNOMIAL IDENTITY CERTIFICATE
+==================================================
+
+Formula        : Q₅₉(10^1886792 + 3)
+Expanded Form  : (10^1886792 + 3)^59 - (10^1886792 + 2)^59
+
+Decimal Digits : 109,433,938
+SHA-256 Hash   : A462032F37DC907EDEF64A575696EC0B11C052B42B469C76F6A6577B841864EF
+
+[FIRST 60 DIGITS]
+590000000000000000000000000000000000000000000000000000000000
+
+[LAST 60 DIGITS]
+000000000000000000000000000000014130386091162273752461387579
+
+Computation Date : January 3, 2026
+Verified Against : DOI 10.5281/zenodo.18140813
+Status           : Computation Verified ✓
+Primality Status : UNVERIFIED (Testing Required)
+
+==================================================
+  VERIFICATION INSTRUCTIONS
+==================================================
+
+To independently verify this computation:
+
+1. Compute: Q₅₉(10^1886792 + 3)
+   
+2. Convert to decimal string
+   
+3. Calculate SHA-256 hash
+   
+4. Compare to above fingerprint
+
+Expected SHA-256:
+A462032F37DC907EDEF64A575696EC0B11C052B42B469C76F6A6577B841864EF
+
+If match → Verification successful ✓
+
+==================================================
+  PUBLICATION INFORMATION
+==================================================
+
+Paper: "Computation and Cryptographic Fingerprinting 
+        of a 109-Million-Digit Integer in the Q₅₉ 
+        Polynomial Family"
+
+Author: Ruqing Chen
+        GUT Geoservice Inc., Montreal, Canada
+
+DOI: 10.5281/zenodo.18140813
+URL: https://doi.org/10.5281/zenodo.18140813
+
+Repository: https://github.com/Ruqing1963/q59-prime-candidate
+
+==================================================
+  EFF PRIZE ELIGIBILITY
+==================================================
+
+This candidate exceeds the Electronic Frontier 
+Foundation's 100-million-digit threshold for their
+$150,000 Cooperative Computing Award.
+
+Current Status: Unverified
+Required: Proof of primality (not yet attempted)
+
+For verification collaboration:
+Contact: ruqing@hotmail.com
+
+==================================================
+  LICENSE
+==================================================
+
+This certificate and all associated documentation
+are licensed under:
+
+Creative Commons Attribution 4.0 International
+(CC-BY-4.0)
+
+You are free to share and adapt with attribution.
+
+==================================================
+  IMPORTANT NOTES
+==================================================
+
+1. This certificate establishes the COMPUTATION
+   of the integer, not its primality.
+
+2. Primality testing has NOT been performed.
+
+3. The number remains a CANDIDATE requiring
+   rigorous verification.
+
+4. Independent computation verification is
+   encouraged and welcomed.
+
+5. All verification results should be reported
+   to the project repository.
+
+==================================================
+
+Generated: January 3, 2026
+Version: 1.0.0
+Certificate ID: Q59-20260103-001
+
+==================================================
